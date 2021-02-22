@@ -19,16 +19,16 @@
                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="language.html">Languages</a>
+                        <a class="nav-link" href="language.php">Languages</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="history.html">History</a>
+                        <a class="nav-link" href="history.php">History</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="update.html">Update</a>
+                        <a class="nav-link" href="update.php">Update</a>
                       </li>
                              
                     <form class="d-flex">
